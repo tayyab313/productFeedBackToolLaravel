@@ -1,0 +1,9 @@
+#floatingTextarea-error{
+    position: relative;
+    top:0em; /* Adjust this value as needed to position the error message below the textarea */
+    color: red;
+}
+.error
+{
+    color: red;
+}
